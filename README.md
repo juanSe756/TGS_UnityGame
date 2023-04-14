@@ -1,13 +1,13 @@
-# TGS_UnityGame
+# TGS_UnityGame - GST_UnityGame
 # Description:
 This is a unity game based on a popular Unity's character mostly used in rookie games, basically we took this main character and we put him a catacomb setting fully populated by bats.
-Entire game is about TGS (Teoria General de Sistemas or General Systems Theory) so when you approach a bat he will ask you a question to which you can answer if it is true or false, if you answer correctly you earn 1 point, if you answer wrong you lose 1 life point. The game ends if you get 5 points or lose all 5 life points.
+Entire game is about GST (General Systems Theory) so when you approach a bat he will ask you a question to which you can answer if it is true or false, if you answer correctly you earn 1 point, if you answer wrong you lose 1 life point. The game ends if you get 5 points or lose all 5 life points.
 It is a very simple game but I hope you find it entertaining.
 # Set up
 - You have to clone this repository
-- You have to run the .exe file
+- You have to run the GameUnity.exe file
 # Errors and bugs
-- You may have one problem the first time you run the .exe file and its that buttons doesn't work. To fix this you have to close the game window and run the .exe file again, that's all.
+- You may have one problem the first time you run the GameUnity.exe file and its that buttons doesn't work. To fix this you have to close the game window and run the GameUnity.exe file again, that's all.
 - Almost at the end, probably you will find a bat but it's not going to ask you anything.
 # Considerations
 This game was:
